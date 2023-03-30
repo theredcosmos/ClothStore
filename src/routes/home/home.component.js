@@ -1,5 +1,5 @@
-import Directory from '../../components/Directory/directory.component';
 
+import Directory from '../home/home.component';
 
 
 
